@@ -1,0 +1,30 @@
+*   commit 8df088bf64fcbfd0e223343520512cdabca7374d (HEAD -> main, origin/main, origin/HEAD)
+|\  Merge: 3c590ce aa51abb
+| | Author: Ryan Rudic <ryanrudic@Ryans-MacBook-Air.local>
+| | Date:   Sun Nov 9 15:14:48 2025 -0500
+| | 
+| |     merged both branches successfully
+| | 
+| * commit aa51abb7ec8f6c3f2061d312b0ecb92709fd3299 (origin/ryanbranch)
+| | Author: Ryan Rudic <ryanrudic@Ryans-MacBook-Air.local>
+| | Date:   Sun Nov 9 13:13:48 2025 -0500
+| | 
+| |     ryan's changes
+| | 
+* | commit 3c590cea0fa5dde74626ff2b1f0a3aa58179654a (brianabranch)
+|/  Author: Briana <bsisler81@gmail.com>
+|   Date:   Wed Nov 5 14:34:23 2025 -0500
+|   
+|       Created new branch; changed Hello World print, added second print statement
+| 
+* commit 3286ad5d65be6291dc3283332840f7f4dc42ad7e
+| Author: Briana <bsisler81@gmail.com>
+| Date:   Wed Nov 5 14:27:19 2025 -0500
+| 
+|     Added Hello World! print statement
+| 
+* commit 8f1e2dc7e6e274819ac0f6e42d2fa26a5ee364fc
+  Author: Kinga <kinga@gwu.edu>
+  Date:   Tue Nov 4 13:07:36 2025 -0500
+  
+      new file
